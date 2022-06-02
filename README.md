@@ -7,5 +7,5 @@ Se carga un archivo JSON con el arreglo de productos (Espectaculos) Se guarda en
 
 La página muestra u oculta secciones dependiendo de la interacción con el usuario.
 
-Se puede visualizar desde: https://ftognola99.github.io/Coderhouse-proyector-final-tognola/
+Se puede visualizar desde: https://ftognola99.github.io/Proyecto_final_coderhouse_tognola/
 
